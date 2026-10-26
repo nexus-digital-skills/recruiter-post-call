@@ -12,7 +12,7 @@
       "name": "recruiter-post-call",
       "source": "./",
       "description": "When a recruiter's call ends: the CRM or ATS note, the follow-up email and a text, the next interview and the action items. Nothing sends without your yes.",
-      "version": "1.0.0"
+      "version": "1.1.0"
     }
   ]
 }

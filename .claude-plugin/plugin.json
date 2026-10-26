@@ -1,6 +1,6 @@
 {
   "name": "recruiter-post-call",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A free skill for recruiters: when a call ends, it writes the CRM or ATS note, the follow-up email and a text, proposes the next interview and lists the action items. Nothing sends without your yes.",
   "author": {
     "name": "Nexus Digital",

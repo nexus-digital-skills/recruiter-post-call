@@ -14,7 +14,15 @@ Built by [Nexus Digital](https://www.nexusdigital.studio). Free to use.
 - **Fits your system.** If your CRM is connected to Claude, the note goes onto the right record. On JobAdder, Bullhorn or another ATS, you get a block ready to paste.
 - **Drafts the emails** in your tone: the follow-up, and the submission email to the client when a candidate says yes to a role.
 - **Gives you a text** to send from your phone, and **proposes the next interview** in both time zones when someone's interstate.
-- **Lists the action items** with an owner and a date.
+- **Puts the action items where you work**, each with an owner and a date: Notion, Asana, ClickUp, Monday or your CRM's tasks.
+
+## What you need
+
+- A paid Claude plan (Pro, Max, Team or Enterprise)
+- **Fathom** recording your calls (the free plan works), connected to Claude, so the skill can read the call. For a phone call nobody recorded, just talk Claude through it.
+- **Your email** (Gmail or Outlook) connected, so the follow-up lands in your drafts
+- **Your task tool** connected (Notion, Asana, ClickUp, Monday or your CRM), so the action items land where you work
+- Your calendar connected too, if you want it to book the next interview
 
 It works from a recording (Fathom, Fireflies, Otter, Teams, Zoom or Google Meet notes), a transcript you paste in, or a quick voice note when the call wasn't recorded.
 

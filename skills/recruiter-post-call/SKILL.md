@@ -34,6 +34,7 @@ Desk: (perm, contract, temp or a mix, and the sector)
 Notes live in: (the CRM or ATS, and whether it's connected to Claude)
 Calls recorded with: (Fathom, Fireflies, Otter, Teams, Zoom, Meet, or none: I dictate)
 Email and calendar: (Gmail or Outlook, Google or Outlook Calendar, connected or not)
+Action items go to: (Notion, Asana, ClickUp, Monday, the CRM's tasks, or just list them)
 Interview length: 30 minutes
 Timezone: Australia/Sydney
 Tone: (for example: friendly, first names, plain Australian English)
@@ -197,8 +198,12 @@ Thursday with their feedback."
 
 List up to five, each with an owner and a date: what the user committed to ("send CV to Acme by
 Wednesday") and what the other person committed to ("Sarah to send referees Monday", which is
-a "check it came in", not a chase). Create them as tasks in the connected CRM after the user says
-yes; otherwise they stay in the report as a list.
+a "check it came in", not a chase). After the user says yes, create them in the tool named under
+"Action items go to" when it's connected (a Notion database, an Asana or ClickUp list, a Monday
+board, or the CRM's own tasks), each with its due date and linked to the person or job where the
+tool allows. The first time, if it isn't clear which database, list or board to use, ask once and
+add the answer to their setup block. Read each one back after creating it. When the tool isn't
+connected, the action items stay in the report as a list they can copy.
 
 ### 8. The report
 
