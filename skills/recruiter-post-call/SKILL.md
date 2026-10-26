@@ -32,7 +32,7 @@ Name and role:
 Agency:
 Desk: (perm, contract, temp or a mix, and the sector)
 Notes live in: (the CRM or ATS, and whether it's connected to Claude)
-Calls recorded with: (Fathom, Fireflies, Otter, Teams, Zoom, Meet, or none: I dictate)
+Calls recorded with: (Fathom, Granola, Fireflies, Otter, Teams, Zoom, Meet, or none: I dictate)
 Email and calendar: (Gmail or Outlook, Google or Outlook Calendar, connected or not)
 Action items go to: (Notion, Asana, ClickUp, Monday, the CRM's tasks, or just list them)
 Interview length: 30 minutes
@@ -68,7 +68,7 @@ unclear, ask in one short line rather than guess.
 
 Look for the content in this order and use the first that exists:
 
-1. A notetaker connected to Claude (Fathom, Fireflies, Otter or similar): search for the meeting
+1. A notetaker connected to Claude (Fathom, Granola, Fireflies, Otter or similar): search for the meeting
    by the person's name or company, most recent first, and pull the full transcript. A pasted
    recording link resolves straight to its meeting.
 2. A transcript or file the user pasted or attached.

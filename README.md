@@ -24,7 +24,7 @@ Built by [Nexus Digital](https://www.nexusdigital.studio). Free to use.
 - **Your task tool** connected (Notion, Asana, ClickUp, Monday or your CRM), so the action items land where you work
 - Your calendar connected too, if you want it to book the next interview
 
-It works from a recording (Fathom, Fireflies, Otter, Teams, Zoom or Google Meet notes), a transcript you paste in, or a quick voice note when the call wasn't recorded.
+It works from a recording (Fathom, Granola, Fireflies, Otter, Teams, Zoom or Google Meet notes), a transcript you paste in, or a quick voice note when the call wasn't recorded.
 
 ## Built to be careful
 
