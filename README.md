@@ -4,9 +4,9 @@ When a call ends, tell Claude who it was with. In about a minute you get the not
 
 Built by [Nexus Digital](https://www.nexusdigital.studio). Free to use.
 
-## Get the install guide
+## Get it
 
-**[Get the free skill and the step-by-step install guide here](https://tally.so/r/1WWWKM).** It takes about ten minutes, and works in Claude chat, Cowork and Claude Code on any paid Claude plan.
+**[Book a quick call with me](https://calendar.app.google/X6WBs1Wo4qX9ggEs6)** and we'll set it up together on your screen. It takes about ten minutes, and works in Claude chat, Cowork and Claude Code on any paid Claude plan.
 
 ## What it does
 
