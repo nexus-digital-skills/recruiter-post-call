@@ -1,0 +1,18 @@
+{
+  "name": "nexus-digital",
+  "owner": {
+    "name": "Nexus Digital",
+    "email": "cooper@nexusdigital.studio"
+  },
+  "metadata": {
+    "description": "Free Claude skills from Nexus Digital."
+  },
+  "plugins": [
+    {
+      "name": "recruiter-post-call",
+      "source": "./",
+      "description": "When a recruiter's call ends: the CRM or ATS note, the follow-up email and a text, the next interview and the action items. Nothing sends without your yes.",
+      "version": "1.0.0"
+    }
+  ]
+}
