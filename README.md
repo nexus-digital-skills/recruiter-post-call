@@ -1,6 +1,6 @@
 # Recruiter Post-Call, a free Claude skill for recruiters
 
-When a call ends, tell Claude who it was with. In about a minute you get the note for your CRM or ATS, the follow-up email, a text you can send from your phone, a proposed time for the next interview, and the action items. Nothing is sent without your yes.
+When a call ends, tell Claude who it was with. In about a minute your CRM is updated with what was said, the action items are on your to-do list, the next call is booked, and a recap email is ready to send. Nothing is sent without your yes.
 
 Built by [Nexus Digital](https://www.nexusdigital.studio). Free to use.
 
@@ -12,8 +12,8 @@ Built by [Nexus Digital](https://www.nexusdigital.studio). Free to use.
 
 - **Writes up the call.** For a candidate: current role, salary as they said it (base or package), notice period, why they're moving, the roles they've OK'd you to submit, and any other interviews or offers in play. For a client: the brief, must-haves, salary band, interview stages and timeline.
 - **Fits your system.** If your CRM is connected to Claude, the note goes onto the right record. On JobAdder, Bullhorn or another ATS, you get a block ready to paste.
-- **Drafts the emails** in your tone: the follow-up, and the submission email to the client when a candidate says yes to a role.
-- **Gives you a text** to send from your phone, and **proposes the next interview** in both time zones when someone's interstate.
+- **Drafts a recap email** to them in your tone: what you spoke about and the next steps. Plus the submission email to the client when a candidate says yes to a role.
+- **Books the next call** when it came up on the call, in both time zones when someone's interstate.
 - **Puts the action items where you work**, each with an owner and a date: Notion, Asana, ClickUp, Monday or your CRM's tasks.
 
 ## What you need

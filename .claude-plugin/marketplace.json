@@ -11,8 +11,8 @@
     {
       "name": "recruiter-post-call",
       "source": "./",
-      "description": "When a recruiter's call ends: the CRM or ATS note, the follow-up email and a text, the next interview and the action items. Nothing sends without your yes.",
-      "version": "1.1.0"
+      "description": "A free skill for recruiters: when a call ends, it updates your CRM, adds the action items to your to-do list, books the next call and drafts a recap email. Nothing sends without your yes.",
+      "version": "1.2.0"
     }
   ]
 }
